@@ -1,0 +1,1 @@
+this python code will query the Bittrex's market data and create a csv file called data_pandas.csv. It will also updates the csv file from time to time. It will also generate markethistory3.log for debugging purposes.
